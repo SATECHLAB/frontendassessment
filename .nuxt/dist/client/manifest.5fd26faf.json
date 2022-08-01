@@ -1,0 +1,9 @@
+{
+  "name": "driveclub",
+  "short_name": "driveclub",
+  "icons": [],
+  "start_url": "/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "lang": "en"
+}

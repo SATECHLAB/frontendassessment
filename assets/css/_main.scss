@@ -1,0 +1,12 @@
+// Global Primary Styles
+
+$primary-color: rgb(225, 226, 226);
+$secondary-color: rgb(101, 104, 106);
+$tertiary-color: rgb(255, 0, 80);
+$transparent-red-color: rgb(255, 0, 80, 0.1);
+$dark-body-color: rgb(24, 28, 30);
+
+* {
+  font-family: 'Poppins', sans-serif;
+  color: $primary-color;
+}
