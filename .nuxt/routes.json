@@ -2,15 +2,13 @@
   {
     "name": "contact-us",
     "path": "/contact-us",
-    "component": "C:\\\\Users\\\\User\\\\dotsass\\\\pages\\\\contact-us.vue",
-    "chunkName": "pages/contact-us",
-    "_name": "_624a7616"
+    "component": "C:\\\\Users\\\\User\\\\Documents\\\\GitHub\\\\frontendassessment\\\\pages\\\\contact-us.vue",
+    "chunkName": "pages/contact-us"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "C:\\\\Users\\\\User\\\\dotsass\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_f6053e12"
+    "component": "C:\\\\Users\\\\User\\\\Documents\\\\GitHub\\\\frontendassessment\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
   }
 ]
